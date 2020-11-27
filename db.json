@@ -1,4 +1,5 @@
-"adclicks.json":{
+{
+	"adclicks.json":
 {
 	"limitAdmobBannerClicks" : true,
 	"limitAdmobInterClicks" : true,
